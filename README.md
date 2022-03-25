@@ -19,7 +19,7 @@ Hello World.
 
 My name is Isaac, I'm a junior fullstack web developer at [Sofista Learning](https://sofista.com.br/). 🎓 🪐
 
-I'm graduating in System Analysis and Development. 📖 
+I'm graduating in System Analysis and Development in Brazil. 📖 🇧🇷
 
 I'm currently working on the new Sofista Learning platform and in my free time I am studying about web/software development and creating websites and webapps for hobby and/or for clients. ⚡
 
