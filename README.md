@@ -4,7 +4,7 @@ My name is Isaac, I'm a software developer, a bassist, and a being of light. �
 
 🪐 I'm a junior fullstack web developer at [Sofista Learning](https://sofista.com.br/). 🚀
 
-🎓 Graduating in System Analysis and Development in Brazil. 📖 🇧🇷
+🎓 Graduating in Systems Analysis and Development in Brazil. 📖 🇧🇷
 
 🤓 Currently learning more about Node.js, Git and operating systems, and developing websites and webapps in my spare time. ⚡⚡
  
