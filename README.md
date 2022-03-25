@@ -1,14 +1,14 @@
 ### Hello World. 👋
 
-My name is Isaac, I'm a junior fullstack web developer at [Sofista Learning](https://sofista.com.br/). 🎓 🪐
+My name is Isaac, I'm a software developer, a bassist, and a being of light. 👨‍💻 🎸 ✨
 
-I'm graduating in System Analysis and Development in Brazil. 📖 🇧🇷
+🪐 I'm a junior fullstack web developer at [Sofista Learning](https://sofista.com.br/). 🚀
 
-In my free time I am studying about web/software development and creating websites and webapps for hobby and/or for clients. ⚡ ⚡
+🎓 Graduating in System Analysis and Development in Brazil. 📖 🇧🇷
 
-I am currently learning more about Node.js, Git and operating systems. 🤓
-
-Besides programming, I like to meditate, study, play the bass guitar, practice calisthenics and be with nature. 🧘‍♂️ 🧠 🎸 💪 🌳
+🤓 Currently learning more about Node.js, Git and operating systems, and developing websites and webapps in my spare time. ⚡⚡
+ 
+Besides programming, I like to meditate, study, play the bass guitar, practice calisthenics and be with nature. 🧘‍♂️ 🧠 🎸 💪 🌳 ☀️
 
 My Stack:
 
@@ -20,3 +20,5 @@ My Stack:
 ![redux](https://user-images.githubusercontent.com/37576563/160047687-15f0aa28-fdce-477d-b543-32131f4ae318.png)
 ![css3](https://user-images.githubusercontent.com/37576563/160049767-681ac93d-64d8-4120-b340-267d58c4e09e.png)
 ![vue](https://user-images.githubusercontent.com/37576563/160049918-1bc9b2da-c5b4-40ea-b1b9-3cf9641815d2.png)
+
+Please follow my developer journey, at [Instagram](https://instagram.com/codigoisaac).
