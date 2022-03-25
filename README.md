@@ -8,7 +8,7 @@ In my free time I am studying about web/software development and creating websit
 
 I am currently learning more about Node.js, Git and operating systems. 🤓
 
-In my spare time, I like to meditate, study, play the bass guitar, practice calisthenics and be with nature. 🧘‍♂️ 🧠 🎸 💪 🌳
+Besides programming, I like to meditate, study, play the bass guitar, practice calisthenics and be with nature. 🧘‍♂️ 🧠 🎸 💪 🌳
 
 My Stack:
 
