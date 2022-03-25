@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World. 👋
 
 My name is Isaac, I'm a junior fullstack web developer at [Sofista Learning](https://sofista.com.br/). 🎓 🪐
 
