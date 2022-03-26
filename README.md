@@ -20,5 +20,6 @@ My Stack:
 [![redux](https://user-images.githubusercontent.com/37576563/160047687-15f0aa28-fdce-477d-b543-32131f4ae318.png)](https://redux.js.org/)
 [![css3](https://user-images.githubusercontent.com/37576563/160049767-681ac93d-64d8-4120-b340-267d58c4e09e.png)](https://en.wikipedia.org/wiki/CSS)
 [![vue](https://user-images.githubusercontent.com/37576563/160049918-1bc9b2da-c5b4-40ea-b1b9-3cf9641815d2.png)](https://vuejs.org/)
+[![tailwind](https://user-images.githubusercontent.com/37576563/160243021-28610e05-79e3-41f6-9470-d969d75637fa.png)](https://tailwindcss.com)
 
 Please follow my developer journey, at [Instagram](https://instagram.com/codigoisaac).
