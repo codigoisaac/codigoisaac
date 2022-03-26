@@ -12,9 +12,9 @@ Besides programming, I like to meditate, study, play the bass guitar, practice c
 
 My Stack:
 
-![git](https://user-images.githubusercontent.com/37576563/160243346-1beba7ff-ca40-4333-a7d8-64bec86000ac.png)
-![html](https://user-images.githubusercontent.com/37576563/160243588-0bdadc99-4600-4775-8393-dab8f4115128.png)
-[![css3](https://user-images.githubusercontent.com/37576563/160049767-681ac93d-64d8-4120-b340-267d58c4e09e.png)](https://en.wikipedia.org/wiki/CSS)
+[![git](https://user-images.githubusercontent.com/37576563/160243346-1beba7ff-ca40-4333-a7d8-64bec86000ac.png)](https://git-scm.com/)
+[![html](https://user-images.githubusercontent.com/37576563/160243759-a12f5a1b-581c-454b-8a5d-7e86d1aadd2e.png)](https://en.wikipedia.org/wiki/HTML5)
+[![css3](https://user-images.githubusercontent.com/37576563/160243802-4d180142-c4d5-49e9-99f8-8d2d1a3546f3.png)](https://en.wikipedia.org/wiki/CSS)
 [![javascript](https://user-images.githubusercontent.com/37576563/160047811-bab27e83-35d6-4a27-925b-9b996c573a49.png)](https://en.wikipedia.org/wiki/JavaScript)
 [![react](https://user-images.githubusercontent.com/37576563/160046597-131c748c-9609-4836-a8da-678345d29537.png)](https://reactjs.org/)
 [![redux](https://user-images.githubusercontent.com/37576563/160047687-15f0aa28-fdce-477d-b543-32131f4ae318.png)](https://redux.js.org/)
