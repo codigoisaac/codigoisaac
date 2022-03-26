@@ -2,11 +2,11 @@
 
 My name is Isaac, I'm a software developer, a bassist, and a being of light. 👨‍💻 🎸 ✨
 
-🪐 I'm a fullstack web developer at [Sofista Learning](https://sofista.com.br/). 🚀
+🪐 I'm a **fullstack web developer** at [**Sofista Learning**](https://sofista.com.br/). 🚀 And **CTO** at [**JanelaBee Digital**](https://instagram.com/janelabee.digital). 🍯
 
-🎓 Graduating in Systems Analysis and Development in Brazil. 📖 🇧🇷
+🎓 Graduating in **Systems Analysis and Development** in Brazil. 📖 🇧🇷
 
-🤓 Currently learning more about Node.js, Git and operating systems, and developing websites and webapps in my spare time. ⚡⚡
+🤓 Currently learning more about **Node.js, Git and operating systems**, and developing **websites and webapps** in my spare time. ⚡⚡
  
 Besides programming, I like to meditate, study, play the bass guitar, practice calisthenics and be with nature. 🧘‍♂️ 🧠 🎸 💪 🌳 ☀️
 
