@@ -2,7 +2,7 @@
 
 My name is Isaac, I'm a software developer, a bassist, and a being of light. 👨‍💻 🎸 ✨
 
-🪐 I'm a **fullstack web developer** at [**Sofista Learning**](https://sofista.com.br/). 🚀 And **CTO** at [**JanelaBee Digital**](https://instagram.com/janelabee.digital). 🍯
+🪐 I'm a **fullstack web developer** at [**Sofista Learning**](https://sofista.com.br/). 🚀 And founding [**JanelaBee Digital**](https://instagram.com/janelabee.digital). 🍯
 
 🎓 Graduating in **Systems Analysis and Development** in Brazil. 📖 🇧🇷
 
