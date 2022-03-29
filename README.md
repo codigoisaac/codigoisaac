@@ -40,6 +40,7 @@ My Stack:
  - [ ] NestJS
  - [ ] Ionic
  - [ ] Web Security
+ - [ ] Teste automatizados
  - [ ] Fast typing
  
 </details>
