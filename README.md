@@ -32,6 +32,7 @@ My Stack:
  - [ ] NodeJS
  - [ ] MySQL
  - [ ] Sequelize
+ - [ ] TypeScript
  - [ ] Vue
  - [ ] Pinia
  - [ ] Nuxt
