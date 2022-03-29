@@ -6,7 +6,7 @@ My name is Isaac, I'm a software developer, a bassist, and a being of light. �
 
 🎓 Graduating in **Systems Analysis and Development** in Brazil. 📖 🇧🇷
 
-🤓 Currently learning more about **Node.js, Git and operating systems**, and developing **websites and webapps** in my spare time. ⚡⚡
+🤓 Currently working and studying a lot, and developing **websites and webapps** in my spare time. ⚡⚡
  
 Besides programming, I like to meditate, study, play the bass guitar, practice calisthenics and be with nature. 🧘‍♂️ 🧠 🎸 💪 🌳 ☀️
 
@@ -23,5 +23,25 @@ My Stack:
 [![node-js](https://user-images.githubusercontent.com/37576563/160046386-57c9f15f-1876-4bfc-a265-49c2e4eefa89.png)](https://nodejs.org/)
 [![mysql](https://user-images.githubusercontent.com/37576563/160047582-d90a2605-61d9-4a8d-a6eb-1ef781e33eeb.png)](https://www.mysql.com/)
 [![sequelize](https://user-images.githubusercontent.com/37576563/160049581-ef32f180-80a6-4d2b-8324-2e3482515dab.png)](https://sequelize.org/)
+
+<details>
+  <summary>Things to get really got at in 2022</summary>
+ 
+ - [ ] The Internet and how it works
+ - [ ] Git
+ - [ ] NodeJS
+ - [ ] MySQL
+ - [ ] Sequelize
+ - [ ] Vue
+ - [ ] Pinia
+ - [ ] Nuxt
+ - [ ] Next
+ - [ ] NestJS
+ - [ ] Ionic
+ - [ ] Web Security
+ - [ ] Fast typing
+ 
+</details>
+
 
 Please follow my developer journey, at [Instagram](https://instagram.com/codigoisaac).
