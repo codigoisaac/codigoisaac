@@ -27,7 +27,7 @@ My Stack:
 <details>
   <summary>Things to get really got at in 2022</summary>
  
- - [ ] Redux
+ - [x] Redux
  - [ ] The Internet and how it works
  - [ ] Git
  - [ ] NodeJS
