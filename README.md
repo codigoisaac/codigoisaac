@@ -31,7 +31,6 @@ My Stack:
  - [ ] The Internet and how it works
  - [ ] Git
  - [ ] NodeJS
- - [ ] MySQL
  - [ ] Sequelize
  - [ ] Docker and containers
  - [ ] TypeScript
@@ -42,7 +41,7 @@ My Stack:
  - [ ] NestJS
  - [ ] Ionic
  - [ ] Web Security
- - [ ] Teste automatizados
+ - [ ] Testes automatizados
  - [ ] Fast typing
  
 </details>
