@@ -30,7 +30,8 @@ My Stack:
  - [x] Redux
  - [ ] The Internet and how it works
  - [ ] Git
- - [ ] NodeJS
+ - [ ] Node.js
+ - [ ] Express.js
  - [ ] Sequelize
  - [ ] Docker and containers
  - [ ] TypeScript
