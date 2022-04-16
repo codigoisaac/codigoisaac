@@ -21,6 +21,7 @@ My Stack:
 [![tailwind](https://user-images.githubusercontent.com/37576563/160243021-28610e05-79e3-41f6-9470-d969d75637fa.png)](https://tailwindcss.com)
 [![vue](https://user-images.githubusercontent.com/37576563/160049918-1bc9b2da-c5b4-40ea-b1b9-3cf9641815d2.png)](https://vuejs.org/)
 [![node-js](https://user-images.githubusercontent.com/37576563/160046386-57c9f15f-1876-4bfc-a265-49c2e4eefa89.png)](https://nodejs.org/)
+[![express](https://user-images.githubusercontent.com/37576563/163659798-6b3ec94e-21cb-4d80-bd5a-60de5687a10d.png)](http://expressjs.com/)
 [![mysql](https://user-images.githubusercontent.com/37576563/160047582-d90a2605-61d9-4a8d-a6eb-1ef781e33eeb.png)](https://www.mysql.com/)
 [![sequelize](https://user-images.githubusercontent.com/37576563/160049581-ef32f180-80a6-4d2b-8324-2e3482515dab.png)](https://sequelize.org/)
 
