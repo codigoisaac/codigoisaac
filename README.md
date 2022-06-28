@@ -19,28 +19,5 @@ My Stack:
 [![mysql](https://user-images.githubusercontent.com/37576563/160047582-d90a2605-61d9-4a8d-a6eb-1ef781e33eeb.png)](https://www.mysql.com/)
 [![sequelize](https://user-images.githubusercontent.com/37576563/160049581-ef32f180-80a6-4d2b-8324-2e3482515dab.png)](https://sequelize.org/)
 
-<details>
-  <summary>Things to get really got at in 2022</summary>
- 
- - [x] Redux
- - [ ] The Internet and how it works
- - [ ] Git
- - [x] Node.js
- - [ ] Express.js
- - [ ] Sequelize
- - [ ] Docker and containers
- - [ ] TypeScript
- - [ ] Vue
- - [ ] Pinia
- - [ ] Nuxt
- - [ ] Next
- - [ ] NestJS
- - [ ] Ionic
- - [ ] Web Security
- - [ ] Testes automatizados
- - [ ] Fast typing
- 
-</details>
-
 
 Please follow my developer journey, at [Instagram](https://instagram.com/codigoisaac).
