@@ -4,12 +4,6 @@ My name is Isaac, I'm a software developer, a bassist, and a being of light. �
 
 🪐 I'm a **web developer** at [**Sofista Learning**](https://sofista.com.br/). 🚀 And co-founding [**JanelaBee Digital**](https://instagram.com/janelabee.digital). 🍯
 
-🎓 Graduating in **Systems Analysis and Development** in Brazil. 📖 🇧🇷
-
-🤓 Currently working and studying a lot, and developing **websites and webapps** in my spare time. ⚡⚡
- 
-Besides programming, I like to meditate, study, play the bass guitar, practice calisthenics and be with nature. 🧘‍♂️ 🧠 🎸 💪 🌳 ☀️
-
 My Stack:
 
 [![git](https://user-images.githubusercontent.com/37576563/160243346-1beba7ff-ca40-4333-a7d8-64bec86000ac.png)](https://git-scm.com/)
