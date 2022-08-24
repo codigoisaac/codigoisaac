@@ -1,8 +1,6 @@
 ### Hello World. 👋
 
-My name is Isaac, I'm a software developer, a bassist, and a being of light. 👨‍💻 🎸 ✨
-
-🪐 I'm a **web developer** at [**Sofista Learning**](https://sofista.com.br/). 🚀 And co-founding [**JanelaBee Digital**](https://instagram.com/janelabee.digital). 🍯
+My name is Isaac, I'm a Software Engineer, a bassist, and a being of light. 👨‍💻 🎸 ✨
 
 My Stack:
 
