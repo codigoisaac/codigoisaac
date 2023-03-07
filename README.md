@@ -1,6 +1,6 @@
 ## Hello World. 👋
 
-### My name is Isaac, I am a Software Engineer making cool apps and websites. 👨‍💻 
+### My name is Isaac, I am a simple Software Engineer who is forever curious with how great systems are made, how they work, and learning how to make them. 👨‍💻 
 
 You can get to know more about me and my projects right [here](https://campsite.bio/codigoisaac). 😉
 
