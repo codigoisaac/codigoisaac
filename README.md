@@ -29,5 +29,8 @@ Você pode conhecer mais sobre mim e alguns de meus projetos [bem aqui](https://
 ##### Tecnologias que eu estou aprendendo a usar
 
 [![next-js](https://user-images.githubusercontent.com/37576563/194781543-fbc505cb-db6f-4861-8027-869b98160f60.png)](https://nextjs.org/)
+
+##### Tecnologias que eu quero aprender no futuro
+
 [![typescript](https://user-images.githubusercontent.com/37576563/189236780-91992aa3-cbbb-41eb-9fc9-09a2c5af9dc9.png)](https://www.typescriptlang.org/)
 [![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)](https://jestjs.io/)
