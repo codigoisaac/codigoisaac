@@ -34,3 +34,7 @@ Você pode conhecer mais sobre mim e alguns de meus projetos [bem aqui](https://
 
 [![typescript](https://user-images.githubusercontent.com/37576563/189236780-91992aa3-cbbb-41eb-9fc9-09a2c5af9dc9.png)](https://www.typescriptlang.org/)
 [![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)](https://jestjs.io/)
+[![docker](https://user-images.githubusercontent.com/37576563/226075448-daa62268-c42b-4762-b693-01e24d990741.png)](https://www.docker.com/)
+
+
+
