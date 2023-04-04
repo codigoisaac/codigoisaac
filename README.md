@@ -36,7 +36,7 @@ Você pode conhecer mais sobre mim e alguns de meus projetos [bem aqui](https://
 [![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)](https://jestjs.io/)
 [![docker](https://user-images.githubusercontent.com/37576563/226075448-daa62268-c42b-4762-b693-01e24d990741.png)](https://www.docker.com/)
 [![GSAP](https://user-images.githubusercontent.com/37576563/229671645-5f255d8c-3c04-4aaf-b4b1-aac8c73d6e85.png)](https://greensock.com/gsap/)
-
+[![Three.js](https://user-images.githubusercontent.com/37576563/229672376-cc688b8c-182f-45a6-91a0-c3be5e0c5897.png)](https://threejs.org/)
 
 
 
