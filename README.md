@@ -1,6 +1,6 @@
 Olá, bem vind@ ao meu GitHub.
 
-# Eternamente curioso sobre como os melhores sistemas são feitos, como eles funcionam, e aprendendo a criá-los. 👨‍💻 
+# Eternamente curioso sobre como bons sistemas são feitos, como eles funcionam, e aprendendo a criá-los. 👨‍💻 
 
 Você pode conhecer mais sobre mim e alguns de meus projetos [bem aqui](https://campsite.bio/codigoisaac). 😉
 
