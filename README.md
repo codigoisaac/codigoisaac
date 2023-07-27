@@ -29,11 +29,12 @@ Para saber mais sobre mim, por favor visite [meu site](https://isaacmuniz.vercel
 ##### Tecnologias que eu estou aprendendo a usar
 
 [![next-js](https://user-images.githubusercontent.com/37576563/194781543-fbc505cb-db6f-4861-8027-869b98160f60.png)](https://nextjs.org/)
+[![typescript](https://user-images.githubusercontent.com/37576563/189236780-91992aa3-cbbb-41eb-9fc9-09a2c5af9dc9.png)](https://www.typescriptlang.org/)
+[![ionic](https://github.com/codigoisaac/codigoisaac/assets/37576563/bfbe0b54-03d1-4adc-a35e-bc01e2d587ee)](https://ionicframework.com/)
+[![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)](https://jestjs.io/)
 
 ##### Tecnologias que eu quero aprender no futuro
 
-[![typescript](https://user-images.githubusercontent.com/37576563/189236780-91992aa3-cbbb-41eb-9fc9-09a2c5af9dc9.png)](https://www.typescriptlang.org/)
-[![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)](https://jestjs.io/)
 [![docker](https://user-images.githubusercontent.com/37576563/226075448-daa62268-c42b-4762-b693-01e24d990741.png)](https://www.docker.com/)
 [![GSAP](https://user-images.githubusercontent.com/37576563/229671645-5f255d8c-3c04-4aaf-b4b1-aac8c73d6e85.png)](https://greensock.com/gsap/)
 [![Three.js](https://user-images.githubusercontent.com/37576563/229672376-cc688b8c-182f-45a6-91a0-c3be5e0c5897.png)](https://threejs.org/)
