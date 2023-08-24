@@ -6,9 +6,9 @@ Para saber mais sobre mim, por favor visite [meu site](https://isaacmuniz.vercel
 
 ---
 
-#### Minha experiência
+#### Minha Stack
 
-##### Tecnologias nas quais eu tenho maestria o suficiente a ponto de poder ensinar alguém
+##### Tenho maestria 
 
 ![html](https://user-images.githubusercontent.com/37576563/160243759-a12f5a1b-581c-454b-8a5d-7e86d1aadd2e.png)
 ![css3](https://user-images.githubusercontent.com/37576563/160243802-4d180142-c4d5-49e9-99f8-8d2d1a3546f3.png)
@@ -18,7 +18,7 @@ Para saber mais sobre mim, por favor visite [meu site](https://isaacmuniz.vercel
 ![tailwind](https://user-images.githubusercontent.com/37576563/160243021-28610e05-79e3-41f6-9470-d969d75637fa.png)
 ![bootstrap](https://user-images.githubusercontent.com/37576563/199377146-72bc245c-4589-4ec6-a2a8-3be955569bc0.png)
 
-##### Tecnologias que eu uso, porém não tenho maestria o suficiente para realmente ensinar sobre
+##### Sei usar
 
 ![typescript](https://user-images.githubusercontent.com/37576563/189236780-91992aa3-cbbb-41eb-9fc9-09a2c5af9dc9.png)
 ![next-js](https://user-images.githubusercontent.com/37576563/194781543-fbc505cb-db6f-4861-8027-869b98160f60.png)
@@ -28,12 +28,12 @@ Para saber mais sobre mim, por favor visite [meu site](https://isaacmuniz.vercel
 ![mysql](https://user-images.githubusercontent.com/37576563/160047582-d90a2605-61d9-4a8d-a6eb-1ef781e33eeb.png)
 ![sequelize](https://user-images.githubusercontent.com/37576563/160049581-ef32f180-80a6-4d2b-8324-2e3482515dab.png)
 
-##### Tecnologias que eu estou aprendendo a usar
+##### Estou aprendendo a usar
 
 ![ionic](https://github.com/codigoisaac/codigoisaac/assets/37576563/e3f5811c-4eb0-47ad-aedf-f530db8e440f)
 ![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)
 
-##### Tecnologias que eu quero aprender no futuro
+##### Quero aprender no futuro
 
 ![docker](https://user-images.githubusercontent.com/37576563/226075448-daa62268-c42b-4762-b693-01e24d990741.png)
 ![GSAP](https://user-images.githubusercontent.com/37576563/229671645-5f255d8c-3c04-4aaf-b4b1-aac8c73d6e85.png)
