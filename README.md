@@ -21,6 +21,7 @@ Para saber mais sobre mim, por favor visite [meu site](https://isaacmuniz.vercel
 ##### Tecnologias que eu uso, porém não tenho maestria o suficiente para realmente ensinar sobre
 
 ![typescript](https://user-images.githubusercontent.com/37576563/189236780-91992aa3-cbbb-41eb-9fc9-09a2c5af9dc9.png)
+![next-js](https://user-images.githubusercontent.com/37576563/194781543-fbc505cb-db6f-4861-8027-869b98160f60.png)
 ![git](https://user-images.githubusercontent.com/37576563/160243346-1beba7ff-ca40-4333-a7d8-64bec86000ac.png)
 ![node-js](https://user-images.githubusercontent.com/37576563/160046386-57c9f15f-1876-4bfc-a265-49c2e4eefa89.png)
 ![express](https://user-images.githubusercontent.com/37576563/163659798-6b3ec94e-21cb-4d80-bd5a-60de5687a10d.png)
@@ -29,7 +30,6 @@ Para saber mais sobre mim, por favor visite [meu site](https://isaacmuniz.vercel
 
 ##### Tecnologias que eu estou aprendendo a usar
 
-![next-js](https://user-images.githubusercontent.com/37576563/194781543-fbc505cb-db6f-4861-8027-869b98160f60.png)
 ![ionic](https://github.com/codigoisaac/codigoisaac/assets/37576563/e3f5811c-4eb0-47ad-aedf-f530db8e440f)
 ![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)
 
