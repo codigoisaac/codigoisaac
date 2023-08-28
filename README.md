@@ -30,14 +30,17 @@
 
 ##### Estou aprendendo a usar
 
-![ionic](https://github.com/codigoisaac/codigoisaac/assets/37576563/e3f5811c-4eb0-47ad-aedf-f530db8e440f)
 ![jest](https://user-images.githubusercontent.com/37576563/189237033-8d81521b-2fd3-4e3b-8fb3-ca2039af87f3.png)
 
 ##### Quero aprender no futuro
 
+![linux](https://github.com/codigoisaac/codigoisaac/assets/37576563/e491af07-cd27-4003-ad33-6a46703ff10b)
+![flutter](https://github.com/codigoisaac/codigoisaac/assets/37576563/9bde7ff9-7ca2-44d9-8699-8699cf15eddf)
 ![docker](https://user-images.githubusercontent.com/37576563/226075448-daa62268-c42b-4762-b693-01e24d990741.png)
-![GSAP](https://user-images.githubusercontent.com/37576563/229671645-5f255d8c-3c04-4aaf-b4b1-aac8c73d6e85.png)
-![Three.js](https://user-images.githubusercontent.com/37576563/229672376-cc688b8c-182f-45a6-91a0-c3be5e0c5897.png)
+![python](https://github.com/codigoisaac/codigoisaac/assets/37576563/8b70ef47-595a-49fb-8065-c62b328ac096)
+![ruby](https://github.com/codigoisaac/codigoisaac/assets/37576563/5a83b558-2770-4ac3-a6f5-0bcbb5601c54)
+![postgresql](https://github.com/codigoisaac/codigoisaac/assets/37576563/d3a7e126-a6d1-4aa0-bb93-c4ea033c0c0f)
+
 
 
 
