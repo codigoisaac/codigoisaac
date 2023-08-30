@@ -1,6 +1,10 @@
 # [\_isaac_muniz_](https://isaacmuniz.vercel.app)
 
+Olá, eu sou o Isaac e... é muito clichê escrever aqui que eu gosto de programar?
 
+Acredito que meu site - linkado acima - seja um bom lugar para você conhecer um pouco de mim e meus projetos.
+
+Atualmente, além de estar trabalhando bastante, eu estou ensinando a mim mesmo Ciência da Computação através d[esse roadmap para gente grande](https://teachyourselfcs.com/). Além de estar aprendendo sobre testes automatizados, (porque resolver bugs cansa), e cursando Análise e Desenvolvimento de Sistemas na faculdade. :v:
 
 | Tenho Maestria | Sei Usar | Estou Estudando | Quero aprender |
 | - | - | - | - |
