@@ -2,7 +2,7 @@
 
 Desenvolvedor Web FullStack.
 
-Visite meu site - linkado acima - para conhecer um pouco de mim e meus projetos.
+Visite meu site - linkado acima - para conhecer um pouco sobre mim e meus projetos.
 
 | Minha Stack |
 | - |
