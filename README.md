@@ -1,8 +1,8 @@
 # [\_isaac_muniz_](https://isaacmuniz.vercel.app)
 
-Olá, eu sou o Isaac e... é muito clichê escrever aqui que eu gosto de programar?
+Desenvolvedor Web FullStack.
 
-Acredito que meu site - linkado acima - seja um bom lugar para você conhecer um pouco de mim e meus projetos.
+Visite meu site - linkado acima - para conhecer um pouco de mim e meus projetos.
 
 | Minha Stack |
 | - |
