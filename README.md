@@ -1,20 +1,19 @@
-# Hey There! 🤙🏽
-
-**I'm Isaac** - A fullstack developer and maker. 
-
-I have 4+ years of prefessional experience building applications for the web and mobile, and I am always studying new things and working on side projects in my free time.
-
-Check out my [portfolio](https://isaacmuniz.vercel.app).
-
-
-
 <div align="center">
+    
+  # Hello, there! 🤙🏽
+  
+  **I'm Isaac** - A fullstack developer, wanabe indie hacker and future entrepeneur. 
+  
+  I have 4+ years of prefessional experience building applications for the web and mobile, and I am always studying new things and working on side projects in my free time.
+  
+  Check out my [portfolio](https://isaacmuniz.vercel.app).
+
   <table>
     <thead>
       <tr>
-        <th style="text-align: center;">Main Tech Stack</th>
-        <th style="text-align: center;">Studying</th>
-        <th style="text-align: center;">GitHub Stats</th>
+        <th style="text-align: center;">Main Tech Stack ⚙️</th>
+        <th style="text-align: center;">Studying 📚️</th>
+        <th style="text-align: center;">GitHub Stats ⚡️</th>
       </tr>
     </thead>
     <tbody>
