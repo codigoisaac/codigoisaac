@@ -1,6 +1,6 @@
 <div align="center">
     
-  # Hello, there! 🤙🏽
+  # Hello, there! 🤙🏼
   
   **I'm Isaac** - A fullstack developer, wanabe indie hacker and future entrepeneur. 
   
