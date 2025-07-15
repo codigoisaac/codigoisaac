@@ -20,7 +20,7 @@
       <tr>
         <td>
           <!-- Main Tech Stack -->
-          <div align="center">
+          <div align="left">
             <img src="https://skillicons.dev/icons?i=react,next" />
             <br/>
             <img src="https://skillicons.dev/icons?i=nodejs,nest" />
@@ -30,12 +30,12 @@
         </td>
         <td>
           <!-- Studying -->
-          <div align="center">
-            <img src="https://skillicons.dev/icons?i=flutter" />
+          <div align="left">
+            <img src="https://skillicons.dev/icons?i=angular,flutter,react" />
             <br/>
-            <img src="https://skillicons.dev/icons?i=django,laravel" />
+            <img src="https://skillicons.dev/icons?i=django" />
             <br/>
-            <img src="https://skillicons.dev/icons?i=py,cs,php" />
+            <img src="https://skillicons.dev/icons?i=py,cs" />
           </div>
         </td>
         <td>
