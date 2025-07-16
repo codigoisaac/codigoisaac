@@ -60,5 +60,16 @@
       </tr>
     </tbody>
   </table>
+
+  ---
+
+  <div align="center">
+  
+  <!-- [![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codigoisaac&bg_color=0d1117&color=b9f9f8&line=b9f9f8&point=0e9f44&area=true&area_color=0e9f44&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+  [![GitHub Streak](https://gh-streaks.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=0E9F44&fire=0E9F44&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=F06292&sideLabels=F06292&dates=0E9F44&excludeDaysLabel=0E9F44)](https://git.io/streak-stats)
+  
+  <img src="https://github-profile-trophy.vercel.app?username=codigoisaac&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+  </div>
 </div>
 
