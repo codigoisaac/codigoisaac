@@ -81,7 +81,7 @@
 
   <!-- Trophies -->
   <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=codigoisaac&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=codigoisaac&theme=radical&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
   
           
 
