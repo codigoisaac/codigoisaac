@@ -20,22 +20,22 @@
       <tr>
         <td>
           <!-- Main Tech Stack -->
-          <div align="left">
-            <img src="https://skillicons.dev/icons?i=react,next" />
+          <div align="center">
+            <img src="https://skills.syvixor.com/api/icons?i=reactjs,nextjs,tailwindcss" />
             <br/>
-            <img src="https://skillicons.dev/icons?i=nodejs,nest" />
+            <img src="https://skills.syvixor.com/api/icons?i=nodejs,nestjs,docker" />
             <br/>
-            <img src="https://skillicons.dev/icons?i=ts" />
+            <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript" />
           </div>
         </td>
         <td>
           <!-- Studying -->
-          <div align="left">
-            <img src="https://skillicons.dev/icons?i=angular,flutter,react" />
+          <div align="center">
+            <img src="https://skills.syvixor.com/api/icons?i=angular,reactnative" />
             <br/>
-            <img src="https://skillicons.dev/icons?i=django" />
+            <img src="https://skills.syvixor.com/api/icons?i=django,dotnet" />
             <br/>
-            <img src="https://skillicons.dev/icons?i=py,cs" />
+            <img src="https://skills.syvixor.com/api/icons?i=python,csharp" />
           </div>
         </td>
         <td>
