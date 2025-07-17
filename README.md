@@ -12,7 +12,7 @@
     <thead>
       <tr>
         <th style="text-align: center;">Main Tech Stack ⚙️</th>
-        <th style="text-align: center;">Studying 📚️</th>
+        <th style="text-align: center;">Learning 📚️</th>
         <th style="text-align: center;">Already Worked With 💾</th>
       </tr>
     </thead>
