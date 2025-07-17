@@ -73,17 +73,16 @@
         </td>
         <!-- Top Languages -->
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=donut&title_color=F06292&text_color=0E9F44&border_color=B9F9F8&bg_color=000" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=donut&title_color=F06292&text_color=0E9F44&border_color=B9F9F8&bg_color=000" alt="Top Languages" />
         </td>
       </tr>
     </tbody>
   </table>
 
-  <!-- Trophies -->
   <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=codigoisaac&theme=radical&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
   
-          
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app?username=codigoisaac&theme=radical&margin-w=5&margin-h=5&no-frame=true&no-bg=false&row=2&column=3" height="250" alt="Trophy Graph"  />          
 
   
   <!-- [![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codigoisaac&bg_color=0d1117&color=b9f9f8&line=b9f9f8&point=0e9f44&area=true&area_color=0e9f44&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
