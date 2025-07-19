@@ -69,7 +69,7 @@
       <tr>
         <!-- Streak -->
         <td>
-          <img src="https://gh-streaks.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=0E9F44&fire=0E9F44&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=F06292&sideLabels=F06292&dates=0E9F44&excludeDaysLabel=0E9F44" alt="GitHub Streak">
+          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=0E9F44&fire=0E9F44&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=F06292&sideLabels=F06292&dates=0E9F44&excludeDaysLabel=0E9F44" alt="GitHub Streak">
         </td>
         <!-- Top Languages -->
         <td>
