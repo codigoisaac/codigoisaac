@@ -82,7 +82,7 @@
   <br/>
   
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app?username=codigoisaac&theme=radical&margin-w=5&margin-h=5&no-frame=true&no-bg=false&row=2&column=3" height="250" alt="Trophy Graph"  />          
+  <img src="https://gh-trophies-isaacmuniz.vercel.app?username=codigoisaac&theme=radical&margin-w=5&margin-h=5&no-frame=true&no-bg=false&row=2&column=3" height="250" alt="Trophy Graph"  />          
 
   
   <!-- [![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codigoisaac&bg_color=0d1117&color=b9f9f8&line=b9f9f8&point=0e9f44&area=true&area_color=0e9f44&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
