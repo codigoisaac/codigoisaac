@@ -73,7 +73,7 @@
         </td>
         <!-- Top Languages -->
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=F06292&text_color=0E9F44&border_color=B9F9F8&bg_color=000" alt="Top Languages" />
+          <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=F06292&text_color=0E9F44&border_color=B9F9F8&bg_color=000" alt="Top Languages" />
         </td>
       </tr>
     </tbody>
