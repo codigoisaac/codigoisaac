@@ -1,13 +1,16 @@
 <div align="center">
     
   # Hello, there! 🤙🏼
-  
-  **I'm Isaac** - A fullstack developer, wanabe indie hacker and future entrepeneur. 
-  
-  I have 4+ years of prefessional experience building applications for the web and mobile, and I am always studying new things and working on side projects in my free time.
-  
-  Check out my [portfolio](https://isaacmuniz.vercel.app).
 
+</div>
+  
+**I'm Isaac** - A fullstack developer, wanabe indie hacker and future entrepeneur. 
+  
+I have 4+ years of prefessional experience building applications for the web and mobile, and I am always studying new things and working on side projects in my free time.
+  
+Check out my [portfolio](https://isaacmuniz.vercel.app).
+
+<div align="center">
   <table>
     <thead>
       <tr>
@@ -80,10 +83,22 @@
   </table>
 
   <br/>
-  
-  <!-- Trophies -->
-  <img src="https://gh-trophies-isaacmuniz.vercel.app?username=codigoisaac&theme=radical&margin-w=5&margin-h=5&no-frame=true&no-bg=false&row=2&column=3" height="250" alt="Trophy Graph"  />          
 
+  <!-- Trophies -->
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: center;">Github Trophies 🏆️</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://gh-trophies-isaacmuniz.vercel.app?username=codigoisaac&theme=radical&margin-w=5&margin-h=5&no-frame=true&no-bg=false&row=2&column=3" height="250" alt="Github Trophies"  />
+        </td>
+      </tr>
+    </tbody>
+  </table>
   
   <!-- [![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codigoisaac&bg_color=0d1117&color=b9f9f8&line=b9f9f8&point=0e9f44&area=true&area_color=0e9f44&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </div>
