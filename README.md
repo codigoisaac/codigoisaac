@@ -1,10 +1,18 @@
-# Hello, there! 🤙🏼
-  
-**I'm Isaac** - A fullstack developer, wanabe indie hacker and future entrepeneur. 
-  
-I have 4+ years of prefessional experience building applications for the web and mobile, and I am always studying new things and working on side projects in my free time.
-  
-Check out my [portfolio](https://isaacmuniz.vercel.app).
+# Hello, World!
+
+I'm Isaac, a fullstack software engineer, wanabe indie hacker and entrepeneur.
+
+I began programming in 2014 with game development, mainly in personal projects and some freelance.
+
+In 2020 I began studying about web development, and in 2021 I got my first job as a fullstack web developer and began my carreer.
+
+Since them I have been creating software for the web and mobile, and this is what I love to do.
+
+Feel free to visit some of my projects below, to [conect with me on LinkedIn](https://www.linkedin.com/in/isaac-muniz/) and to visit my [portfolio](https://isaacmuniz.vercel.app).
+
+If I can help with anything, please let me know.
+
+<br/>
 
 <div align="center">
   <table>
