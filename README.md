@@ -50,12 +50,12 @@ If I can help with anything, please let me know.
         <!-- Studying -->
         <td>
           <div align="center">
-            <img src="https://skills.syvixor.com/api/icons?i=angular,reactnative"
+            <img src="https://skills.syvixor.com/api/icons?i=reactnative"
             />
             <br/>
-            <img src="https://skills.syvixor.com/api/icons?i=django,dotnet" />
+            <img src="https://skills.syvixor.com/api/icons?i=django" />
             <br/>
-            <img src="https://skills.syvixor.com/api/icons?i=python,csharp" />
+            <img src="https://skills.syvixor.com/api/icons?i=python" />
           </div>
         </td>
         <!-- Already Worked With -->
