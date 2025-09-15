@@ -91,12 +91,12 @@ If I can help with anything, please let me know.
       <tr>
         <!-- Streak -->
         <td>
-          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=0E9F44&fire=B9F9F8&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=6ECCFF&sideLabels=6ECCFF&dates=0E9F44&excludeDaysLabel=0E9F44"
+          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=6ECCFF&fire=B9F9F8&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=6ECCFF&sideLabels=6ECCFF&dates=6ECCFF&excludeDaysLabel=6ECCFF"
           alt="GitHub Streak">
         </td>
         <!-- Top Languages -->
         <td>
-          <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=6ECCFF&text_color=0E9F44&border_color=B9F9F8&bg_color=000"
+          <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=B9F9F8&text_color=6ECCFF&border_color=B9F9F8&bg_color=000"
           alt="Top Languages" />
         </td>
       </tr>
