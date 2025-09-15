@@ -91,12 +91,12 @@ If I can help with anything, please let me know.
       <tr>
         <!-- Streak -->
         <td>
-          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=0E9F44&fire=0E9F44&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=F06292&sideLabels=F06292&dates=0E9F44&excludeDaysLabel=0E9F44"
+          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=0E9F44&fire=B9F9F8&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=6ECCFF&sideLabels=6ECCFF&dates=0E9F44&excludeDaysLabel=0E9F44"
           alt="GitHub Streak">
         </td>
         <!-- Top Languages -->
         <td>
-          <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=F06292&text_color=0E9F44&border_color=B9F9F8&bg_color=000"
+          <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=6ECCFF&text_color=0E9F44&border_color=B9F9F8&bg_color=000"
           alt="Top Languages" />
         </td>
       </tr>
@@ -115,7 +115,7 @@ If I can help with anything, please let me know.
     <tbody>
       <tr>
         <td>
-          <img src="https://gh-trophies-isaacmuniz.vercel.app?username=codigoisaac&theme=radical&margin-w=5&margin-h=5&no-frame=true&no-bg=false&row=2&column=3"
+          <img src="https://gh-trophies-isaacmuniz.vercel.app?username=codigoisaac&theme=onestar&margin-w=5&margin-h=5&no-frame=true&no-bg=false&row=2&column=3"
           height="250" alt="Github Trophies" />
         </td>
       </tr>
