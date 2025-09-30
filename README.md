@@ -87,7 +87,7 @@ Feel free to visit some of my projects below, to [conect with me on LinkedIn](ht
       <tr>
         <!-- Streak -->
         <td>
-          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=6ECCFF&fire=B9F9F8&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=6ECCFF&sideLabels=6ECCFF&dates=6ECCFF&excludeDaysLabel=6ECCFF"
+          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=000000&border=B9F9F8&stroke=B9F9F8&ring=00BFC4&fire=B9F9F8&currStreakNum=B9F9F8&sideNums=B9F9F8&currStreakLabel=00BFC4&sideLabels=00BFC4&dates=6ECCFF&excludeDaysLabel=00BFC4"
           alt="GitHub Streak">
         </td>
         <!-- Top Languages -->
