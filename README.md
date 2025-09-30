@@ -1,16 +1,12 @@
 # Hello, World!
 
-I'm Isaac, a fullstack software engineer, wanabe indie hacker and entrepeneur.
+I'm Isaac, a fullstack software and automations engineer and technology leader with over 5 years of professional experience building software in startups.
 
-I began programming in 2014 with game development, mainly in personal projects and some freelance.
+I began programming in 2014 with game development, mainly in personal projects and some freelance. In 2019 I began studying about web development, and in 2021 I got my first job as a fullstack web developer and started my carreer.
 
-In 2020 I began studying about web development, and in 2021 I got my first job as a fullstack web developer and began my carreer.
-
-Since them I have been creating software for the web and mobile, and this is what I love to do.
+Since them I have been creating software for the web and mobile, as well as automations, and this is what I love doing.
 
 Feel free to visit some of my projects below, to [conect with me on LinkedIn](https://www.linkedin.com/in/isaac-muniz/) and to visit my [portfolio](https://isaacmuniz.vercel.app).
-
-If I can help with anything, please let me know.
 
 <br/>
 
