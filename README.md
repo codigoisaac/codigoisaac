@@ -4,7 +4,9 @@ I'm Isaac, a fullstack software and automations engineer and technology leader w
 
 I began programming in 2014 with game development, mainly in personal projects and some freelance. In 2019 I began studying about web development, and in 2021 I got my first job as a fullstack web developer and started my carreer.
 
-Since them I have been creating software for the web and mobile, as well as automations, and this is what I love doing.
+Since them I have been creating software for the web and mobile, as well as automations, and lately I have finally gotten back into playing around with game development. :)
+
+Creating software is a passion – I knew this was what I wanted to do ever since I was a child fascinated by video games.
 
 Feel free to visit some of my projects below, to [conect with me on LinkedIn](https://www.linkedin.com/in/isaac-muniz/) and to visit my [portfolio](https://isaacmuniz.vercel.app).
 
