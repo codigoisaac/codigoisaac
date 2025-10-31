@@ -89,12 +89,12 @@ Feel free to visit some of my projects below, to [connect with me on LinkedIn](h
       <tr>
         <!-- Streak -->
         <td>
-          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=0d181c&border=0039e0&stroke=0039e0&ring=aec4cf&fire=aec4cf&currStreakNum=aec4cf&sideNums=aec4cf&currStreakLabel=f7f9fa&sideLabels=f7f9fa&dates=f7f9fa&excludeDaysLabel=f7f9fa"
+          <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=0b2232&border=aec4cf&ring=aec4cf&fire=aec4cf&currStreakNum=aec4cf&sideNums=aec4cf&currStreakLabel=aec4cf&sideLabels=aec4cf&dates=aec4cf&excludeDaysLabel=aec4cf"
           alt="GitHub Streak">
         </td>
         <!-- Top Languages -->
         <td>
-          <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=aec4cf&text_color=f7f9fa&border_color=0039e0&bg_color=0d181c"
+          <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=aec4cf&text_color=aec4cf&border_color=aec4cf&bg_color=0b2232"
           alt="Top Languages" />
         </td>
       </tr>
