@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm Isaac, a fullstack developer with over 5 years of professional experience building software.
+I'm a fullstack developer with over 5 years of professional experience building software.
 
 Feel free to visit some of my projects below, to [connect with me on LinkedIn](https://www.linkedin.com/in/isaac-muniz/) and to visit my [portfolio](https://isaacmuniz.vercel.app).
 
