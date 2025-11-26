@@ -2,7 +2,7 @@
 
 I'm a fullstack developer with over 5 years of professional experience building software.
 
-Feel free to visit some of my projects below, to connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-muniz/), on [Substack](https://substack.com/@imuniz), on [Bluesky](https://bsky.app/profile/imuniz.bsky.social), on [SoundCloud](https://soundcloud.com/imunizvibes), and to visit my [portfolio](https://isaacmuniz.vercel.app).
+Feel free to visit some of my projects below, to connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-muniz/), [Substack](https://substack.com/@imuniz), [Bluesky](https://bsky.app/profile/imuniz.bsky.social), [SoundCloud](https://soundcloud.com/imunizvibes), and to visit my [portfolio](https://isaacmuniz.vercel.app).
 
 <br/>
 
