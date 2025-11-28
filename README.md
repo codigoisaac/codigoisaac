@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm a full stack developer who loves creating software and who's programming since 2018 and making a career out of it since 2021.
+I'm a full stack developer who loves creating software and who's programming since 2015 and making a career out of it since 2021.
 
 Feel free to visit some of my projects below, to connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-muniz/), [Substack](https://substack.com/@imuniz), [Bluesky](https://bsky.app/profile/imuniz.bsky.social), [SoundCloud](https://soundcloud.com/imunizvibes), and to visit my **[portfolio](https://isaacmuniz.vercel.app)**.
 
