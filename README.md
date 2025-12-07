@@ -40,6 +40,7 @@ Feel free to connect with me on:
 ### 💾 Technologies I already worked with
 
 [![Skills](https://skills.syvixor.com/api/icons?i=php)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=laravel)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=expressjs)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=mysql)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=sequelize)](https://github.com/syvixor/skills-icons)
