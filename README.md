@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm Isaac, a software Engineer and indie hacker with 5 years of experience, who treats simplicity as the ultimate advantage.
+I'm Isaac, a software engineer and fullstack developer with 5 years of experience, who treats simplicity as the ultimate advantage.
 
 > I build software to be easy to change and easy to maintain - because adaptable systems give you leverage: when the code is simple, you ship faster since new ideas don’t require rewiring half the project; you break less because there are fewer things interacting in unexpected ways; and the system stays useful longer because it can evolve instead of being replaced.
 >
@@ -10,7 +10,7 @@ Feel free to connect with me on:
 
 [LinkedIn](https://www.linkedin.com/in/isaac-muniz/) | [Substack](https://substack.com/@imuniz) | [Bluesky](https://bsky.app/profile/imuniz.bsky.social)
 
-And to visit my **[portfolio](https://isaacmuniz.vercel.app)**.
+#### And to [`visit my website`](https://isaacmuniz.vercel.app).
 
 ---
 
