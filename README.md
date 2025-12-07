@@ -16,15 +16,40 @@ And to visit my **[portfolio](https://isaacmuniz.vercel.app)**.
 
 ### ⚙️ My Main Tech Stack
 
-<img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,nodejs,nestjs,postgresql,docker,prisma,jwt,jest,zustandreactjs,nextjs,tailwindcss,zod"/>
+[![Skills](https://skills.syvixor.com/api/icons?i=ts)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=js)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=node)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=nestjs)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=postgresql)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=docker)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=prisma)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=jwt)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=jest)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=zustand)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=reactjs)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=nextjs)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=tailwindcss)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=zod)](https://github.com/syvixor/skills-icons)
 
 ### 📚️ What I'm learning
 
-<img src="https://skills.syvixor.com/api/icons?i=python,django,reactnative" />
+[![Skills](https://skills.syvixor.com/api/icons?i=reactnative)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=python)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=django)](https://github.com/syvixor/skills-icons)
 
 ### 💾 Technologies I already worked with
 
-<img src="https://skills.syvixor.com/api/icons?i=php,expressjs,mysql,sequelize,redux,reacthookform,reactquery,flutter,bootstrap" />
+[![Skills](https://skills.syvixor.com/api/icons?i=php)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=expressjs)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=mysql)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=sequelize)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=redux)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=reacthookform)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=reactquery)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=flutter)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=dart)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=bootstrap)](https://github.com/syvixor/skills-icons)
+
 
 ---
 
