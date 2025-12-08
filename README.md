@@ -58,9 +58,11 @@ Feel free to connect with me on:
 
 <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=080808&border=d5d5d5&ring=d5d5d5&fire=d5d5d5&currStreakNum=d5d5d5&sideNums=d5d5d5&currStreakLabel=d5d5d5&sideLabels=d5d5d5&dates=d5d5d5&excludeDaysLabel=d5d5d5" alt="GitHub Streak">
 
+<!--
 ### Top Languages 📜
 
 <img src="https://gh-stats-isaacmuniz.vercel.app/api/top-langs/?username=codigoisaac&theme=radical&layout=compact&title_color=d5d5d5&text_color=d5d5d5&border_color=d5d5d5&bg_color=080808" alt="Top Languages" />
+-->
 
 ### Github Trophies 🏆️
 
