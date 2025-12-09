@@ -26,13 +26,16 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=jwt)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=jest)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=zustand)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=zod)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=reactjs)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=nextjs)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=tailwindcss)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=zod)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=css)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=gsap)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=git)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=github)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=githubactions)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=vercel)](https://github.com/syvixor/skills-icons)
 
 ### 📚️ What I'm learning
 
@@ -53,6 +56,7 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=flutter)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=dart)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=bootstrap)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=n8n)](https://github.com/syvixor/skills-icons)
 
 
 ---
