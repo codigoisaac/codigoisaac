@@ -43,7 +43,7 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=python)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=django)](https://github.com/syvixor/skills-icons)
 
-### 💾 Technologies I already worked with
+### 💾 Technologies I already worked with in the past
 
 [![Skills](https://skills.syvixor.com/api/icons?i=php)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=laravel)](https://github.com/syvixor/skills-icons)
