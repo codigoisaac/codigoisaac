@@ -14,7 +14,7 @@ Feel free to connect with me on:
 
 ---
 
-### ⚙️ My Main Tech Stack
+### ⚙️ My Main Tech Stack:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=ts)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=js)](https://github.com/syvixor/skills-icons)
@@ -37,13 +37,13 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=githubactions)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=vercel)](https://github.com/syvixor/skills-icons)
 
-### 📚️ What I'm learning
+### 📚️ What I'm learning:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=reactnative)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=python)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=django)](https://github.com/syvixor/skills-icons)
 
-### 💾 Technologies I already worked with in the past
+### 💾 Technologies I already worked with in the past:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=php)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=laravel)](https://github.com/syvixor/skills-icons)
@@ -61,7 +61,7 @@ Feel free to connect with me on:
 
 ---
 
-### Github Streak ⚡️
+### ⚡️ Github Streak: 
 
 <img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=080808&border=d5d5d5&ring=d5d5d5&fire=d5d5d5&currStreakNum=d5d5d5&sideNums=d5d5d5&currStreakLabel=d5d5d5&sideLabels=d5d5d5&dates=d5d5d5&excludeDaysLabel=d5d5d5" alt="GitHub Streak">
 
