@@ -14,6 +14,12 @@ Feel free to connect with me on:
 
 ---
 
+### ⚡️ Github Streak: 
+
+[![GitHub Streak](https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&theme=ocean-gradient)](https://git.io/streak-stats)
+
+---
+
 ### ⚙️ My Main Tech Stack:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=ts)](https://github.com/syvixor/skills-icons)
@@ -57,13 +63,6 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=dart)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=bootstrap)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=n8n)](https://github.com/syvixor/skills-icons)
-
-
----
-
-### ⚡️ Github Streak: 
-
-<img src="https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&background=080808&border=d5d5d5&ring=d5d5d5&fire=d5d5d5&currStreakNum=d5d5d5&sideNums=d5d5d5&currStreakLabel=d5d5d5&sideLabels=d5d5d5&dates=d5d5d5&excludeDaysLabel=d5d5d5" alt="GitHub Streak">
 
 <!--
 ### Top Languages 📜
