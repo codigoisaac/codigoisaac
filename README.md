@@ -35,6 +35,7 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=zod)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=reactjs)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=nextjs)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=swr)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=tailwindcss)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=css)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=gsap)](https://github.com/syvixor/skills-icons)
