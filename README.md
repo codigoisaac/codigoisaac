@@ -20,12 +20,18 @@ Feel free to connect with me on:
 
 ---
 
-### ⚙️ My Main Tech Stack:
+### 🌟 The tools I use the most and in which I am specializing:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=ts)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=js)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=nextjs)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=node)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=nestjs)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=reactjs)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=tailwindcss)](https://github.com/syvixor/skills-icons)
+
+### ⚙️ Other tools I also use a lot:
+
+[![Skills](https://skills.syvixor.com/api/icons?i=js)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=postgresql)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=docker)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=prisma)](https://github.com/syvixor/skills-icons)
@@ -33,10 +39,7 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=jest)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=zustand)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=zod)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=reactjs)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=nextjs)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=swr)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=tailwindcss)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=css)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=gsap)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=git)](https://github.com/syvixor/skills-icons)
@@ -47,8 +50,7 @@ Feel free to connect with me on:
 ### 📚️ What I'm learning:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=reactnative)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=python)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=django)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=dotnet)](https://github.com/syvixor/skills-icons)
 
 ### 💾 Technologies I already worked with in the past:
 
