@@ -1,24 +1,36 @@
 # Hello, World!
 
-I'm Isaac, a fullstack developer who treats simplicity as the ultimate advantage.
+I'm a Software Engineer focused in Fullstack Web Development. I'm usually busy buiding SaaS projects.
 
-> I build software to be easy to change and easy to maintain - because adaptable systems give you leverage: when the code is simple, you ship faster since new ideas don’t require rewiring half the project; you break less because there are fewer things interacting in unexpected ways; and the system stays useful longer because it can evolve instead of being replaced.
->
-> I aim at creating clear structures that let me move quickly and predictably, but what drives me is the impact: seeing people actually achieve their goals and or desires faster and more easily thanks to something I built.
+## Some of my projects
 
-Feel free to connect with me on:
+> ### SaaS-Base
 
-[LinkedIn](https://www.linkedin.com/in/isaac-muniz/) | [Substack](https://substack.com/@imuniz) | [Bluesky](https://bsky.app/profile/imuniz.bsky.social)
+Currently I'm really busy with my project [SaaS-Base](https://github.com/codigoisaac/SaaS-Base). As the name indicates, it's a base for SaaS projects. I want to make easier for me to create SaaS products, that's why I'm building this fullstack Next.js template.
 
-#### And to [`visit my website`](https://isaacmuniz.vercel.app).
+It has automated dev workflow, code quality and style assurance as well as assurance of conventional commits, integration tests, GitHub Actions that ensure only good PR's, PostgreSQL with Docker Compose, database migrations, etc.
 
----
+This things will be needed in all good SaaS projects and they are already done for you and me in this template. Although the template has yet a lot to evolve, it can already save hours of work.
 
-### ⚡️ Github Streak: 
+> ### Binary Shift
+
+The project I've done that I like the most is [Binary Shift](https://binaryshift.netlify.app). And here's it's [repository](https://github.com/codigoisaac/Binary-Shift).
+
+It's a simple app that converts text to binary code and vice-versa. Done with React and Redux.
+
+> ### Abyss
+
+I also like [Abyss](https://codigoisaac.github.io/Abyss/) (well, my 5 year old son like it more than I do), a project I did years ago when I was learning web development. Here's the [repository](https://github.com/codigoisaac/Abyss).
+
+## Mindset
+
+> I believe the most important characteristic of a software is how it impacts people. The second one is how technically reliable it is. And the third one is how easily it can be modified and expanded.
+
+## Github Streak:
 
 [![GitHub Streak](https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&theme=ocean-gradient)](https://git.io/streak-stats)
 
----
+## Tools
 
 ### 🌟 The tools I use the most and in which I am specializing:
 
@@ -47,11 +59,14 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=github)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=githubactions)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=vercel)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=npm)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=pnpm)](https://github.com/syvixor/skills-icons)
 
 ### 📚️ What I'm learning:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=reactnative)](https://github.com/syvixor/skills-icons)
-[![Skills](https://skills.syvixor.com/api/icons?i=dotnet)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=python)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=csharp)](https://github.com/syvixor/skills-icons)
 
 ### 💾 Technologies I already worked with in the past:
 
@@ -68,6 +83,12 @@ Feel free to connect with me on:
 [![Skills](https://skills.syvixor.com/api/icons?i=bootstrap)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=n8n)](https://github.com/syvixor/skills-icons)
 
+## Connect
+
+Feel free to connect with me on:
+
+### 🌐 [My Website](https://isaacmuniz.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/isaac-muniz/) | ✒️ [Substack](https://substack.com/@imuniz) | 🦋 [Bluesky](https://bsky.app/profile/imuniz.bsky.social)
+
 <!--
 ### Top Languages 📜
 
@@ -83,4 +104,3 @@ Feel free to connect with me on:
 <!--
 [![Isaac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codigoisaac&bg_color=0d1117&color=b9f9f8&line=b9f9f8&point=0e9f44&area=true&area_color=0e9f44&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
-
