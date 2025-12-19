@@ -2,37 +2,45 @@
 
 I'm a Software Engineer focused in Fullstack Web Development. I'm usually busy buiding SaaS projects.
 
-## Some of my projects
+# Some of my projects
 
-> ### SaaS-Base
+## SaaS-Base
 
-Currently I'm really busy with my project [SaaS-Base](https://github.com/codigoisaac/SaaS-Base). As the name indicates, it's a base for SaaS projects. I want to make easier for me to create SaaS products, that's why I'm building this fullstack Next.js template.
+I’m currently working on `SaaS-Base`. It’s a solid starting point for building SaaS products, created from the frustration of setting up the same infrastructure and tooling over and over again.
 
-It has automated dev workflow, code quality and style assurance as well as assurance of conventional commits, integration tests, GitHub Actions that ensure only good PR's, PostgreSQL with Docker Compose, database migrations, etc.
+The project is a fullstack Next.js template that already handles the boring but critical parts of a SaaS: automated development workflow, strict code quality and formatting enforcement, conventional commits enforcement, integration tests, PostgreSQL with Docker Compose, database migrations, and GitHub Actions that guarantee clean and reliable pull requests.
 
-This things will be needed in all good SaaS projects and they are already done for you and me in this template. Although the template has yet a lot to evolve, it can already save hours of work.
+SaaS-Base reflects how I like to build software: with attention to detail, automation where it matters, and guardrails that prevent problems before they happen. It’s still evolving, but it’s already a strong foundation that can save hours or even days of work, reduce mistakes, and make new projects easier to maintain from day one.
 
-> ### Binary Shift
+[Repository](https://github.com/codigoisaac/SaaS-Base)
 
-The project I've done that I like the most is [Binary Shift](https://binaryshift.netlify.app). And here's it's [repository](https://github.com/codigoisaac/Binary-Shift).
+## Binary Shift
+
+One of the projects I've done that I like the most is `Binary Shift`.
 
 It's a simple app that converts text to binary code and vice-versa. Done with React and Redux.
 
-> ### Abyss
+[App](https://binaryshift.netlify.app) | [Repository](https://github.com/codigoisaac/Binary-Shift)
 
-I also like [Abyss](https://codigoisaac.github.io/Abyss/) (well, my 5 year old son like it more than I do), a project I did years ago when I was learning web development. Here's the [repository](https://github.com/codigoisaac/Abyss).
+## Abyss
 
-## Mindset
+I also like `Abyss` (well, my 5 year old son like it more than I do), a project I did years ago when I was learning web development. It's a drawing app with some cool features.
+
+[App](https://codigoisaac.github.io/Abyss/) | [Repository](https://github.com/codigoisaac/Abyss)
+
+# Mindset
 
 > I believe the most important characteristic of a software is how it impacts people. The second one is how technically reliable it is. And the third one is how easily it can be modified and expanded.
 
-## Github Streak:
+# Github Streak:
 
 [![GitHub Streak](https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&theme=ocean-gradient)](https://git.io/streak-stats)
 
-## Tools
+# Tools
 
-### 🌟 The tools I use the most and in which I am specializing:
+<!-- The icons could be all in one image, but for responsivity each one is a separate image. -->
+
+## The tools I use the most and in which I am specializing:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=ts)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=nextjs)](https://github.com/syvixor/skills-icons)
@@ -41,7 +49,7 @@ I also like [Abyss](https://codigoisaac.github.io/Abyss/) (well, my 5 year old s
 [![Skills](https://skills.syvixor.com/api/icons?i=reactjs)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=tailwindcss)](https://github.com/syvixor/skills-icons)
 
-### ⚙️ Other tools I also use a lot:
+## Other tools I also use a lot:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=js)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=postgresql)](https://github.com/syvixor/skills-icons)
@@ -62,13 +70,13 @@ I also like [Abyss](https://codigoisaac.github.io/Abyss/) (well, my 5 year old s
 [![Skills](https://skills.syvixor.com/api/icons?i=npm)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=pnpm)](https://github.com/syvixor/skills-icons)
 
-### 📚️ What I'm learning:
+## What I'm learning:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=reactnative)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=python)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=csharp)](https://github.com/syvixor/skills-icons)
 
-### 💾 Technologies I already worked with in the past:
+## Technologies I already worked with in the past:
 
 [![Skills](https://skills.syvixor.com/api/icons?i=php)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=laravel)](https://github.com/syvixor/skills-icons)
@@ -83,7 +91,7 @@ I also like [Abyss](https://codigoisaac.github.io/Abyss/) (well, my 5 year old s
 [![Skills](https://skills.syvixor.com/api/icons?i=bootstrap)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=n8n)](https://github.com/syvixor/skills-icons)
 
-## Connect
+# Connect
 
 Feel free to connect with me on:
 
