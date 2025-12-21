@@ -4,33 +4,27 @@ I'm a Software Engineer focused in Fullstack Web Development. I'm usually busy b
 
 # Some of my projects
 
-## SaaS-Base
+## > SaaS-Base
 
-I’m currently working on `SaaS-Base`. It’s a solid starting point for building SaaS products, created from the frustration of setting up the same infrastructure and tooling over and over again.
+I’m currently working on `SaaS-Base`, a fullstack Next.js starter designed to eliminate the repetitive setup work that comes with building SaaS products.
 
-The project is a fullstack Next.js template that already handles the boring but critical parts of a SaaS: automated development workflow, strict code quality and formatting enforcement, conventional commits enforcement, integration tests, PostgreSQL with Docker Compose, database migrations, and GitHub Actions that guarantee clean and reliable pull requests.
-
-SaaS-Base reflects how I like to build software: with attention to detail, automation where it matters, and guardrails that prevent problems before they happen. It’s still evolving, but it’s already a strong foundation that can save hours or even days of work, reduce mistakes, and make new projects easier to maintain from day one.
+It includes an automated development workflow, enforcement for strict code quality, code formatting and conventional commits, integration tests, PostgreSQL with Docker Compose, database migrations, and GitHub Actions to keep pull requests clean and reliable. The project is still evolving, but it already provides a solid, opinionated foundation that saves time, reduces mistakes, and keeps projects maintainable.
 
 [Repository](https://github.com/codigoisaac/SaaS-Base)
 
-## Binary Shift
+## > Binary Shift
 
 One of the projects I've done that I like the most is `Binary Shift`.
 
-It's a simple app that converts text to binary code and vice-versa. Done with React and Redux.
+It's a simple app that converts text to binary code and vice-versa. Made with React and Redux.
 
 [App](https://binaryshift.netlify.app) | [Repository](https://github.com/codigoisaac/Binary-Shift)
 
-## Abyss
+## > Abyss
 
 I also like `Abyss` (well, my 5 year old son like it more than I do), a project I did years ago when I was learning web development. It's a drawing app with some cool features.
 
 [App](https://codigoisaac.github.io/Abyss/) | [Repository](https://github.com/codigoisaac/Abyss)
-
-# Mindset
-
-> I believe the most important characteristic of a software is how it impacts people. The second one is how technically reliable it is. And the third one is how easily it can be modified and expanded.
 
 # Github Streak:
 
