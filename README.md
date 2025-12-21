@@ -75,6 +75,8 @@ I also like `Abyss` (well, my 5 year old son like it more than I do), a project 
 [![Skills](https://skills.syvixor.com/api/icons?i=reactnative)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=python)](https://github.com/syvixor/skills-icons)
 [![Skills](https://skills.syvixor.com/api/icons?i=csharp)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=java)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=golang)](https://github.com/syvixor/skills-icons)
 
 ## Technologies I already worked with in the past:
 
