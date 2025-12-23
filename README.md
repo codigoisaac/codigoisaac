@@ -1,14 +1,12 @@
 # Hello, World!
 
-I'm a Software Engineer focused in Fullstack Web Development. I'm usually busy buiding SaaS projects.
+I'm a Software Engineer focused in Fullstack Web Development. I'm usually busy buiding SaaS projects or learning more about programming.
 
 # Some of my projects
 
 ## > SaaS-Base
 
 I’m currently working on `SaaS-Base`, a fullstack Next.js starter designed to eliminate the repetitive setup work that comes with building SaaS products.
-
-It includes an automated development workflow, enforcement for strict code quality, code formatting and conventional commits, integration tests, PostgreSQL with Docker Compose, database migrations, and GitHub Actions to keep pull requests clean and reliable. The project is still evolving, but it already provides a solid, opinionated foundation that saves time, reduces mistakes, and keeps projects maintainable.
 
 [Repository](https://github.com/codigoisaac/SaaS-Base)
 
@@ -91,7 +89,7 @@ I also like `Abyss` (well, my 5 year old son like it more than I do), a project 
 
 Feel free to connect with me on:
 
-### 🌐 [My Website](https://isaacmuniz.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/isaac-muniz/) | ✒️ [Substack](https://substack.com/@imuniz) | 🦋 [Bluesky](https://bsky.app/profile/imuniz.bsky.social)
+### [`🌐 My Website`](https://isaacmuniz.vercel.app) | [`💼 LinkedIn`](https://www.linkedin.com/in/isaac-muniz/) | [`✒️ Substack`](https://substack.com/@imuniz) | [`🦋 Bluesky`](https://bsky.app/profile/imuniz.bsky.social)
 
 <!--
 ### Top Languages 📜
