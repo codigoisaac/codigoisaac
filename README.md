@@ -1,8 +1,8 @@
 # Hi, I'm Isaac 🤙🏼
 
-I'm a fullstack web and mobile developer based in the interior of São Paulo, Brazil, with more than 5 years of experience in web development, and recently I have been also doing mobile development.
+I'm a full-stack web developer based in the interior of São Paulo, Brazil, with over 5 years of experience. Recently, in addition to continuing to work with web development, I've also been creating mobile apps and working with Python and AI.
 
-I'm usually busy buiding SaaS projects or learning more about programming.
+I'm usually busy developing SaaS projects or improving my programming skills.
 
 # Some projects
 
