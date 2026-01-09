@@ -20,7 +20,7 @@ Besides private ones, here are some projects I have been working on:
 
 Feel free to connect with me on:
 
-### [`🌐 My Website`](https://isaacmuniz.vercel.app) | [`💼 LinkedIn`](https://www.linkedin.com/in/isaac-muniz/) | [`✒️ Substack`](https://substack.com/@imuniz) | [`🦋 Bluesky`](https://bsky.app/profile/imuniz.bsky.social)
+### [`🌐 My Website`](https://isaacmuniz.vercel.app) | [`💼 LinkedIn`](https://www.linkedin.com/in/isaac-muniz/) 
 
 # GitHub Streak
 
