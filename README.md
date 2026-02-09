@@ -19,7 +19,3 @@ Besides private ones, here are some projects I have been working on:
 Feel free to connect with me on:
 
 ### [`🌐 My Website`](https://isaacmuniz.vercel.app) | [`💼 LinkedIn`](https://www.linkedin.com/in/isaac-muniz/) 
-
-# GitHub Streak
-
-[![GitHub Streak](https://gh-streaks-isaacmuniz.vercel.app?user=codigoisaac&theme=ocean-gradient)](https://git.io/streak-stats)
