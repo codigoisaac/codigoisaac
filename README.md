@@ -1,6 +1,4 @@
-Hello, Isaac here.
-
-I'm a Web & Mobile Developer based in São Paulo, Brazil.
+I'm a Fullstack Developer based in São Paulo, Brazil.
 
 I have been coding since 2018, working as a developer since 2021, and as a freelance developer since 2025.
 
