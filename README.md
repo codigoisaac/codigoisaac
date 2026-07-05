@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://isaacmuniz.pro"><img src="https://img.shields.io/badge/portfolio-isaacmuniz.pro-FD8540?style=flat-square" /></a>
+  <a href="https://isaacmuniz.pro"><img src="https://img.shields.io/badge/portfolio%20&%20blog-isaacmuniz.pro-FD8540?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/open%20to-work%20%26%20collaboration-1B873F?style=flat-square" />
 </p>
 
@@ -25,5 +25,4 @@ I build web and mobile products end to end, from architecture to UI, with a focu
 
 ### Let's talk
 
-- 🌐 Portfolio: **[isaacmuniz.pro](https://isaacmuniz.pro)**
 - 💼 LinkedIn: [linkedin.com/in/isaac-muniz](https://linkedin.com/in/isaac-muniz)
