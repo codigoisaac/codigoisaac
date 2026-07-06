@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://isaacmuniz.pro"><img src="https://img.shields.io/badge/blog%20%26%20portfolio-isaacmuniz.pro-FD8540?style=flat-square" /></a>
   <a href="https://linkedin.com/in/isaac-muniz"><img src="https://img.shields.io/badge/linkedin-isaac--muniz-0A66C2?style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/open%20to-work%20%26%20collaboration-1B873F?style=flat-square" />
 </p>
 
 ---
